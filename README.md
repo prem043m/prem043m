@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prem</h1>
+<h3 align="center">AI/ML Enthusiast </h3>
 
-<!--
-**prem043m/prem043m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/...gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **ML Projects**
+- 🌱 I’m learning **Deep Learning**
+- 💬 Ask me about **C++, Python, AI**
+- ⚡ Fun fact: I code at night 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/-C++-blue)
+![Python](https://img.shields.io/badge/-Python-yellow)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+### 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
